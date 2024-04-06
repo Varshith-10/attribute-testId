@@ -1,0 +1,57 @@
+/* Write your code here */
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  background-size: cover;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  margin-top: 150px;
+}
+.arrowImage {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+.profile {
+  width: 100px;
+  height: 100px;
+}
+.heading1 {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 10px;
+}
+.para {
+  color: black;
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 20px;
+}
+.imageCont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container2 {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60vw;
+}
+.para1{
+  color: black;
+  font-size: 15px;
+  font-weight: normal;
+  margin-top: 20px;
+  width: 50vw;
+  text-align: center;
+}
